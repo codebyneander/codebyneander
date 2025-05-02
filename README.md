@@ -38,15 +38,15 @@ Desafios realizados com HTML e CSS puros, focando em prática de layout, semânt
 
 * 1️⃣ [Página de Receita - Cupcakes](https://github.com/codebyneander/pagina-receita-cupcakecoffe) <br>
   🔗 [Visualizar](https://codebyneander.github.io/pagina-receita-cupcakecoffe/) <br>
-  *Primeiro projeto realizado **com foco em HTML e CSS Puro**, sem flexbox/grid.*
+  *Projeto realizado **com foco em HTML e CSS Puro**, sem flexbox/grid.*
 
 * 2️⃣ [Página de Turismo - Busan](https://github.com/codebyneander/turismo-busan-page) <br>
   🔗 [Visualizar](https://codebyneander.github.io/turismo-busan-page/) <br>
-  *Segundo projeto realizado **com foco em HTML e CSS Puro**, sem flexbox/grid.*
+  *Projeto realizado **com foco em HTML e CSS Puro**, sem flexbox/grid.*
 
 * 3️⃣ [Clonagem Página - Youtube](https://github.com/codebyneander/clone-youtube) <br>
   🔗 [Visualizar](https://codebyneander.github.io/clone-youtube/) <br>
-  *Terceiro projeto realizado **com foco em CSS Flexbox**.*
+  *Projeto realizado **com foco em CSS Flexbox**.*
 
 ---
 
