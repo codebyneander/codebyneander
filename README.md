@@ -30,6 +30,9 @@ Desafios realizados com HTML e CSS puros, focando em prática de layout, semânt
 
 * 2️⃣ [Desafio #2 - Blog Preview Card](https://github.com/codebyneander/blog-preview-card-myproject) <br>
   🔗 [Visualizar](https://codebyneander.github.io/blog-preview-card-myproject/) <br>
+
+* 3️⃣ [Desafio #3 - Social Links Profile](https://github.com/codebyneander/social-links-profile-frontend-mentor) <br>
+  🔗 [Visualizar](https://codebyneander.github.io/social-links-profile-frontend-mentor/) <br>
 ---
 
 # 🚀 Projetos de Curso
