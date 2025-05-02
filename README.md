@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Renan Guilherme
 
-<!--
-**codebyneander/codebyneander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um jovem Desenvolvedor Front-End em formação, apaixonado por tecnologia, desafios e aprendizado contínuo. Esse é o meu **catálogo de projetos públicos**, onde compartilho o que venho construindo!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente estudando:
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
+<img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+---
+
+# 🧠 Desafios Frontend Mentor
+
+## 🏆 CSS
+
+Desafios realizados com HTML e CSS puros, focando em prática de layout, semântica e Flexbox.
+
+* 1️⃣ [QR Code Component](https://github.com/codebyneander/code-qr-component-project) <br>
+  🔗 [Visualizar](https://codebyneander.github.io/code-qr-component-project/) <br>
+
+* 2️⃣ [Blog Preview Card](https://github.com/codebyneander/blog-preview-card-myproject) <br>
+  🔗 [Visualizar](https://codebyneander.github.io/blog-preview-card-myproject/) <br>
+---
+
+# 🚀 Projetos de Curso
+
+## 🏆 CSS
+
+* 1️⃣ [Página de Receita - Cupcakes](https://github.com/codebyneander/pagina-receita-cupcakecoffe) <br>
+  🔗 [Visualizar](https://codebyneander.github.io/pagina-receita-cupcakecoffe/) <br>
+  *Primeiro projeto realizado **com foco em HTML e CSS Puro**, sem flexbox/grid.*
+
+* 2️⃣ [Página de Turismo - Busan](https://github.com/codebyneander/turismo-busan-page) <br>
+  🔗 [Visualizar](https://codebyneander.github.io/turismo-busan-page/) <br>
+  *Segundo projeto realizado **com foco em HTML e CSS Puro**, sem flexbox/grid.*
+
+* 3️⃣ [Clonagem Página - Youtube](https://github.com/codebyneander/clone-youtube) <br>
+  🔗 [Visualizar](https://codebyneander.github.io/clone-youtube/) <br>
+  *Terceiro projeto realizado **com foco em CSS Flexbox**.*
+
+---
+
+# 🎨 Projetos Pessoais
+
+## Em breve...
+
+---
+
+## 🇧🇷 Ordem e Progresso. (From Brazil)
