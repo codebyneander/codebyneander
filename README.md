@@ -2,6 +2,9 @@
 
 Sou um jovem Desenvolvedor Front-End em formação, apaixonado por tecnologia, desafios e aprendizado contínuo. Esse é o meu **catálogo de projetos públicos**, onde compartilho o que venho construindo!
 
+## Vamos nos conectar?
+  * 📇 [Linkedin - Renan Guilherme](https://www.linkedin.com/in/renan-guilherme/)
+  * 📧 renanguilherme.profissional@outlook.com
 ---
 
 ## Atualmente estudando:
