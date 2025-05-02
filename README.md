@@ -25,10 +25,10 @@ Sou um jovem Desenvolvedor Front-End em formação, apaixonado por tecnologia, d
 
 Desafios realizados com HTML e CSS puros, focando em prática de layout, semântica e Flexbox.
 
-* 1️⃣ [QR Code Component](https://github.com/codebyneander/code-qr-component-project) <br>
+* 1️⃣ [Desafio #1 - QR Code Component](https://github.com/codebyneander/code-qr-component-project) <br>
   🔗 [Visualizar](https://codebyneander.github.io/code-qr-component-project/) <br>
 
-* 2️⃣ [Blog Preview Card](https://github.com/codebyneander/blog-preview-card-myproject) <br>
+* 2️⃣ [Desafio #2 - Blog Preview Card](https://github.com/codebyneander/blog-preview-card-myproject) <br>
   🔗 [Visualizar](https://codebyneander.github.io/blog-preview-card-myproject/) <br>
 ---
 
