@@ -21,7 +21,7 @@ Sou um jovem Desenvolvedor Front-End em formação, apaixonado por tecnologia, d
 
 # 🧠 Desafios Frontend Mentor
 
-## 🏆 CSS
+## <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
 
 Desafios realizados com HTML e CSS puros, focando em prática de layout, semântica e Flexbox.
 
@@ -34,7 +34,7 @@ Desafios realizados com HTML e CSS puros, focando em prática de layout, semânt
 
 # 🚀 Projetos de Curso
 
-## 🏆 CSS
+## <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
 
 * 1️⃣ [Página de Receita - Cupcakes](https://github.com/codebyneander/pagina-receita-cupcakecoffe) <br>
   🔗 [Visualizar](https://codebyneander.github.io/pagina-receita-cupcakecoffe/) <br>
