@@ -51,6 +51,9 @@ Desafios realizados com HTML e CSS puros, focando em prática de layout, semânt
   🔗 [Visualizar](https://codebyneander.github.io/clone-youtube/) <br>
   *Projeto realizado **com foco em CSS Flexbox**.*
 
+* 4️⃣ [Clonagem Página - Airbnb](https://github.com/codebyneander/airbnb) <br>
+  🔗 [Visualizar](https://codebyneander.github.io/airbnb/) <br>
+  *Projeto realizado **com foco em CSS Flexbox**.*
 ---
 
 # 🎨 Projetos Pessoais
