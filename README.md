@@ -54,6 +54,10 @@ Desafios realizados com HTML e CSS puros, focando em prática de layout, semânt
 * 4️⃣ [Clonagem Página - Airbnb](https://github.com/codebyneander/airbnb) <br>
   🔗 [Visualizar](https://codebyneander.github.io/airbnb/) <br>
   *Projeto realizado **com foco em CSS Flexbox**.*
+
+* 5️⃣ [Clonagem Página - Spotify](https://github.com/codebyneander/spotify-clone) <br>
+  🔗 [Visualizar](https://codebyneander.github.io/spotify-clone/) <br>
+  *Projeto realizado **com foco em CSS Flexbox**.*
 ---
 
 # 🎨 Projetos Pessoais
