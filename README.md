@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/codebyneander/codebyneander/main/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/codebyneander/codebyneander/main/banner.png" style="width:100%;" />
+
+
 
 # 👋 Olá! Eu sou o Renan Guilherme
 
