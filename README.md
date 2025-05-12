@@ -61,11 +61,6 @@ Sou um jovem **Desenvolvedor Front-End** em formação, apaixonado por tecnologi
 
 ---
 
-
-  - Início de carreira profissional como desenvolvedor
-
----
-
 ### 🛠️ Em constante evolução...
 
 > ⚠️ Estas listas estão em construção, assim como minha jornada.  
