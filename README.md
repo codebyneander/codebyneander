@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/codebyneander/codebyneander/main/banner.png" width="100%" />
+
+
+
 # 👋 Olá! Eu sou o Renan Guilherme
 
 Sou um jovem Desenvolvedor Front-End em formação, apaixonado por tecnologia, desafios e aprendizado contínuo. Esse é o meu **catálogo de projetos públicos**, onde compartilho o que venho construindo!
