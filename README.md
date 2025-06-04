@@ -51,6 +51,7 @@ Sou um jovem **Desenvolvedor Front-End** em formação, apaixonado por tecnologi
 | 4️⃣ | [Clonagem - Airbnb](https://github.com/codebyneander/airbnb) | [🔗 Visualizar](https://codebyneander.github.io/airbnb/) | CSS Flexbox |
 | 5️⃣ | [Clonagem - Spotify](https://github.com/codebyneander/spotify-clone) | [🔗 Visualizar](https://codebyneander.github.io/spotify-clone/) | CSS Flexbox |
 | 6️⃣ | [Chat Fake - Chatgram](https://github.com/codebyneander/chat) | [🔗 Visualizar](https://codebyneander.github.io/chat/) | CSS Flexbox |
+| 6️⃣ | [Página de viagens - Travelgram](https://github.com/codebyneander/travelgram) | [🔗 Visualizar](https://codebyneander.github.io/travelgram/) | CSS Flexbox |
 
 </details>
 
