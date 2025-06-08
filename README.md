@@ -57,9 +57,8 @@ Sou um jovem **Desenvolvedor Front-End** em formação, apaixonado por tecnologi
 
 ---
 
-## 🎨 Projetos Pessoais
-
 <details open>
+  <summary>🎨 <strong>Projetos Pessoais</strong></summary>
 
 | Nº | Projeto | Preview | Descrição |
 |----|---------|---------|-----------|
