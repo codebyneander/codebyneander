@@ -59,7 +59,12 @@ Sou um jovem **Desenvolvedor Front-End** em formação, apaixonado por tecnologi
 
 ## 🎨 Projetos Pessoais
 
-> Em breve...
+<details open>
+
+| Nº | Projeto | Preview | Descrição |
+|----|---------|---------|-----------|
+| 🐾 | [Página de Petshop](https://github.com/codebyneander/petshop) | [🔗 Visualizar](https://codebyneander.github.io/pagina-receita-cupcakecoffe/) | HTML + CSS Puro |
+</details>
 
 ---
 
