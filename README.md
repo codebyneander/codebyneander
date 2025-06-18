@@ -41,18 +41,28 @@ Sou um jovem **Desenvolvedor Front-End** em formação, apaixonado por tecnologi
 ---
 
 <details open>
-  <summary>🚀 <strong>Projetos - Prática e Treinamento</strong></summary>
+  <summary>🚀 <strong>Desafios da Rocketseat</strong></summary>
+
+| Nº | Projeto | Preview | Descrição |
+|----|---------|---------|-----------|
+| 1️⃣ | [Página de Turismo - Busan](https://github.com/codebyneander/turismo-busan-page) | [🔗 Visualizar](https://codebyneander.github.io/turismo-busan-page/) | HTML + CSS Puro |
+| 2️⃣ | [Página Portfólio Dev - Martina Santos](https://github.com/codebyneander/portfolio-dev) | [🔗 Visualizar](https://codebyneander.github.io/portfolio-dev/) | CSS Grid + Flexbox |
+</details>
+
+---
+
+<details open>
+  <summary>👨‍💻 <strong>Projetos - Prática e Treinamento</strong></summary>
 
 | Nº | Projeto | Preview | Descrição |
 |----|---------|---------|-----------|
 | 1️⃣ | [Página de Receita - Cupcakes](https://github.com/codebyneander/pagina-receita-cupcakecoffe) | [🔗 Visualizar](https://codebyneander.github.io/pagina-receita-cupcakecoffe/) | HTML + CSS Puro |
-| 2️⃣ | [Página de Turismo - Busan](https://github.com/codebyneander/turismo-busan-page) | [🔗 Visualizar](https://codebyneander.github.io/turismo-busan-page/) | HTML + CSS Puro |
-| 3️⃣ | [Clonagem - Youtube](https://github.com/codebyneander/clone-youtube) | [🔗 Visualizar](https://codebyneander.github.io/clone-youtube/) | CSS Flexbox |
-| 4️⃣ | [Clonagem - Airbnb](https://github.com/codebyneander/airbnb) | [🔗 Visualizar](https://codebyneander.github.io/airbnb/) | CSS Flexbox |
-| 5️⃣ | [Clonagem - Spotify](https://github.com/codebyneander/spotify-clone) | [🔗 Visualizar](https://codebyneander.github.io/spotify-clone/) | CSS Flexbox |
-| 6️⃣ | [Chat Fake - Chatgram](https://github.com/codebyneander/chat) | [🔗 Visualizar](https://codebyneander.github.io/chat/) | CSS Flexbox |
+| 2️⃣ | [Clonagem - Youtube](https://github.com/codebyneander/clone-youtube) | [🔗 Visualizar](https://codebyneander.github.io/clone-youtube/) | CSS Flexbox |
+| 3️⃣ | [Clonagem - Airbnb](https://github.com/codebyneander/airbnb) | [🔗 Visualizar](https://codebyneander.github.io/airbnb/) | CSS Flexbox |
+| 4️⃣ | [Clonagem - Spotify](https://github.com/codebyneander/spotify-clone) | [🔗 Visualizar](https://codebyneander.github.io/spotify-clone/) | CSS Flexbox |
+| 5️⃣ | [Chat Fake - Chatgram](https://github.com/codebyneander/chat) | [🔗 Visualizar](https://codebyneander.github.io/chat/) | CSS Flexbox |
 | 6️⃣ | [Página de viagens - Travelgram](https://github.com/codebyneander/travelgram) | [🔗 Visualizar](https://codebyneander.github.io/travelgram/) | CSS Flexbox |
-| 6️⃣ | [Portal de Notícias - Technews](https://github.com/codebyneander/portal-news) | [🔗 Visualizar](https://codebyneander.github.io/portal-news/) | CSS Grid |
+| 7️⃣ | [Portal de Notícias - Technews](https://github.com/codebyneander/portal-news) | [🔗 Visualizar](https://codebyneander.github.io/portal-news/) | CSS Grid |
 
 </details>
 
