@@ -12,6 +12,7 @@ Sou um jovem **Desenvolvedor Front-End** em formação, apaixonado por tecnologi
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/renan-guilherme/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:renanguilherme.profissional@outlook.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/renan.guilhermec)
 
 ---
 
