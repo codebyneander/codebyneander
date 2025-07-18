@@ -66,7 +66,7 @@ Sou um jovem **Desenvolvedor Front-End** em formação, apaixonado por tecnologi
 | 6️⃣ | [Página de viagens - Travelgram](https://github.com/codebyneander/travelgram) | [🔗 Visualizar](https://codebyneander.github.io/travelgram/) | CSS Flexbox |
 | 7️⃣ | [Portal de Notícias - Technews](https://github.com/codebyneander/portal-de-noticias-definitive) | [🔗 Visualizar](https://codebyneander.github.io/portal-de-noticias-definitive) | CSS Grid & Media Queries |
 | 8️⃣ | [Formulário de Matrícula - Estrelas do Amanhã](https://github.com/codebyneander/form-matricula) | [🔗 Visualizar](https://codebyneander.github.io/form-matricula/) | Forms HTML |
-| 9️⃣ | [Landing Page para Aplicativo - Zingen](https://github.com/codebyneander/form-matricula) | [🔗 Visualizar](https://codebyneander.github.io/zingen/) | Media Queries |
+| 9️⃣ | [Landing Page para Aplicativo - Zingen](https://github.com/codebyneander/zingen) | [🔗 Visualizar](https://codebyneander.github.io/zingen/) | Media Queries |
 | 9️⃣ | [Página de viagens - Travelgram](https://github.com/codebyneander/travelgram-definitive-edition) | [🔗 Visualizar](https://codebyneander.github.io/travelgram-definitive-edition/) | Media Queries |
 
 </details>
